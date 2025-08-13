@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 标题
+title: cjw的个人博客
 subtitle: ''
-description: 描述
-keywords: 关键词
-author: 作者名
+description: 记录自己成长
+keywords: 前端
+author: cjw
 language: zh-CN
 timezone: ''
 
@@ -23,7 +23,7 @@ pretty_urls:
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: tags
+tag_dir: 标签
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
